@@ -1,0 +1,16 @@
+<root>
+    <node type="ReportEventNode">
+        <index>10005</index>
+        <process_id>0</process_id>
+        <time>1673091315</time>
+        <report_time>1</report_time>
+        <ext_data>R3VpZD04NjY3NzIwNDQyNDQ2OTRfMDAwMDAwMDAwMDAw</ext_data>
+        <time_string>2023-01-07 17:05:15</time_string>
+        <attribute1></attribute1>
+        <attribute2></attribute2>
+        <cost1>0</cost1>
+        <cost2>0</cost2>
+        <cost3>0</cost3>
+        <cost4>0</cost4>
+    </node>
+</root>
